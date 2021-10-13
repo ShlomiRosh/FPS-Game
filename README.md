@@ -14,5 +14,14 @@ The game will also be further developed by adding a menu, levels, game logic, fi
 ![](images/1.png)
 
 **Snapshots**
-
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
+![](images/6.png)
+![](images/7.png)
+![](images/8.png)
+![](images/9.png)
+![](images/10.png)
+![](images/11.png)
 -----------------------------
